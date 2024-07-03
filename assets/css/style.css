@@ -1,0 +1,46 @@
+@import "{{ site.theme }}";
+
+@import "/css/atkinson.css";
+
+:root {
+    --background: rgb(246, 194, 146);
+    --foreground: rgb(0, 0, 0);
+    --link: rgb(52, 163, 63);
+}
+
+html {
+    font-family: Atkinson, sans-serif;
+    color: var(--foreground);
+}
+
+body {
+    background-color: var(--background);
+    font-size: 1.25rem;
+    max-width: 60rem;
+    margin: 0 auto;
+    padding: 0rem 1rem 1rem 1rem;
+}
+
+p,
+li {
+    line-height: 1.5em;
+}
+
+/* Links */
+
+a {
+    /* font-weight: normal; */
+    text-decoration: none;
+    /* text-decoration: underline 2px dotted rgba(0,0,0,1); */
+    /* color: var(--foreground); */
+    color: var(--link);
+}
+
+/* Images */
+
+img {
+    width: auto;
+    height: 100%;
+    max-height: 60vh;
+    max-width: 100%;
+}
