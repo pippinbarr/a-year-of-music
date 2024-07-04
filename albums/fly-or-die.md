@@ -12,6 +12,6 @@
 
 > There is also a live version of this album and a sequel: *Fly or Die 2*. Haven't listened to either as yet.
 
-> Apple Music: https://music.apple.com/ca/album/fly-or-die/1215029587  
-> YouTube Music: https://music.youtube.com/playlist?list=OLAK5uy_lpGlNV1rGjbzegcb6G7blztWPE0m6g0kw  
-> Pitchfork obituary: https://pitchfork.com/news/jaimie-branch-jazz-composer-and-trumpeter-dies-at-39/
+> Apple Music: <https://music.apple.com/ca/album/fly-or-die/1215029587>  
+> YouTube Music: <https://music.youtube.com/playlist?list=OLAK5uy_lpGlNV1rGjbzegcb6G7blztWPE0m6g0kw>  
+> Pitchfork obituary: <https://pitchfork.com/news/jaimie-branch-jazz-composer-and-trumpeter-dies-at-39/>
