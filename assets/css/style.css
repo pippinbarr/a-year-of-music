@@ -28,8 +28,19 @@ li {
 
 /* Headings */
 
-h1 {
-    font-size: 4em;
+.pippin h2 {
+    font-size: 0.5em;
+    text-align: left;
+    color: grey;
+}
+
+.pippin p {
+    font-size: 0.8em;
+    background-color: rgb(63, 89, 254);
+    color: whitesmoke;
+    text-align: left;
+    border-radius: 10%;
+    width: 70vw;
 }
 
 /* Links */
