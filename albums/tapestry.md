@@ -1,4 +1,4 @@
-## *Tapestry* (Carol King, )
+## *Tapestry* (Carol King, 1971)
 
 ![Fly or die album cover](../assets/covers/tapestry.png)  
 ([Apple Music](https://music.apple.com/ca/album/tapestry/747087657), [YouTube Music](https://www.youtube.com/playlist?list=OLAK5uy_lUWnDcefuS7i1yv27EE5oZ87cRlQbm3EA))

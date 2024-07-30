@@ -5,3 +5,7 @@
 ## 1. [*Fly or Die*](./albums/fly-or-die) (Jamie Branch, 2017)
 
 [![Fly or Die album cover](./assets/covers/fly-or-die.png)](./albums/fly-or-die)
+
+## 2. [*Tapestry*](./albums/tapestry) (Carol King, 1971)
+
+[![Fly or Die album cover](./assets/covers/tapestry.png)](./albums/tapestry)
