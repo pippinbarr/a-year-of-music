@@ -31,16 +31,16 @@ Carol King is everywhere. I was looking at Kehinde Wiley’s website earlier thi
 
 Another diversion from ‘Bad Cameo’ …  
 Now that we’re at the end of the Film Festival, we thought it might be interesting to look back at it through a music /sound lens. Although we’ve noticed music before, of course, thanks to ‘A year of music’ this time, we paid closer attention and what we understood better was the distinction between the soundtrack and the sound design.
- 
+
 Grand Tour directed by Miguel Gomes played with music (and everything else winning best director at Cannes this year). Most arresting was when the Blue Danube boomed out to accompany scooters in Saigon diving around the traffic, and yes, it was waltz-like. There’s also (again in Saigon) a scene where a noodle eater gets up and sings his version of ‘My way’ and of course there is the Bobby Darin song we mentioned earlier. A lot of music woven together with complex visuals, different times … it’s amazing
- 
-Soundtrack to a coup d’état is a documentary about the Democratic Republic of the Congo and what happened as their independence struggle culminated in the murder of Prime Minister Patrice Lumumba. It’s a terrible story and the historical footage and use of official documents and interviews is outstanding. Unfortunately, the hook chosen to structure the movie is … music!! Specifically American jazz of the 1950s and 1960s, so all the greats are. Although the CIA and American diplomats used jazz as propaganda (yes, Dizzy Gillespie, Louie Armstrong), the link sometimes feels stretched but more importantly the music is presented in brief snippets only so it feels manipulated. Great doco apart from how it uses the music.  
- 
+
+Soundtrack to a coup d’état is a documentary about the Democratic Republic of the Congo and what happened as their independence struggle culminated in the murder of Prime Minister Patrice Lumumba. It’s a terrible story and the historical footage and use of official documents and interviews is outstanding. Unfortunately, the hook chosen to structure the movie is … music!! Specifically American jazz of the 1950s and 1960s, so all the greats are. Although the CIA and American diplomats used jazz as propaganda (yes, Dizzy Gillespie, Louie Armstrong), the link sometimes feels stretched but more importantly the music is presented in brief snippets only so it feels manipulated. Great doco apart from how it uses the music.
+
 Days of heaven from Terrence Malik delivered again and while the visuals are spectacular the music is a classic too. Starts with Saint-Saens’s Carnival of the animals over the credits, setting the scene for America in 1916 and then we get Ennio Morricone scoring the rest with his memorable brand of emotion and drama. One weirdness is that because we know the spaghetti westerns better, the music reminded us of Sergio Leone.
- 
+
 Then there was Paris, Texas as another visit. We hadn’t remembered the plot v well (where did that child come from ??) and Ry Cooder’s soundtrack is so memorable and been used so often that it felt a touch controlling.
- 
+
 ‘I saw the TV glow’ by Jane Schoenbrun was definitely not our film except, except one track by Caroline Pooched and a performance of ‘Claw machine’ by Phoebe Bridgers and a kind of erotic feminist punk band (is there such a thing?). The central character is transfixed, so were we.
- 
+
 And ‘The village next to paradise’ dir by Mo Harawe. We went partly because it was made in Somalia but we liked its family-struggles story and non-actor actors. The soundtrack featured drones and explosions plus the Ethiopian piano playing nun Elmahdy Tsegue Maryam Guebrun (yes, we had to look up her name but we’ve listened to her a lot) which startled us and fitted so wonderfully with that precise clear sound.
 
