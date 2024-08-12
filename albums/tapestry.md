@@ -20,3 +20,51 @@ Yeah I enjoyed this pick. I’ve listened to the album a couple of times, though
 It either sounds very of its time or it sounds influential? Or both. Can kind of hear things like the Beatles, Elton John, Captain and Tennille, Dusty Springfield (who she wrote for), others I’m sure.
 
 The album cover has a cat, so I’m sold.
+
+#### Mary
+
+Were you talking about  Philippe KAterine at the Olympiques?
+
+#### Pippin
+
+Oh yes! He’s at the end of the dance barge sequence. In a cloche…
+
+<https://www.cnn.com/2024/07/29/style/video/apology-blue-man-olympic-ceremony-digvid>
+
+#### Mary
+
+We thought he was great. Thanks. What a funny, subtle performance 
+
+#### Jim
+
+Bit of a stretch to see that as the Last Supper. Loved it, wicked but so good humoured.
+
+#### Pippin
+
+A tribute to singing being amazing, even if it’s a bit… one note:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7AxEZ703Ek4?si=U3himgjvEzEvipQX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#### Mary
+
+Virtuoso but amazingly stressful to listen to. That old withholding pressure. No (little) development, all expectation. Thank you
+
+#### Jim
+
+Fun fact. Darin was born in East Harlem
+
+#### Jim
+
+Darin was the sound of my childhood. The songs your parents preferred to Elvis. Beyond the Sea doesn’t really do him justice. The song I remember being a shock and a delight was Mac the Knife. We all sang it endlessly - it was so bold and daring. Wierd to think that Kevin Spacey played him in the biopic.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ygVgxGSQIsw?si=OmlO6DvS4IXk62Ag" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#### Pippin
+
+(Off to Big Brave this evening, speaking of a Year of Music!)
+
+Mack the Knife mainly makes me think of Louis Armstrong’s version, but I like this one too!
+
+#### Jim
+
+Talk about ‘a year of music’ we just got out of our seventh Film Festival film, the Portuguese movie ‘Grand Tour’ that ended with Bobby Darin singing ‘Beyond the Sea’….this time with all the notes!

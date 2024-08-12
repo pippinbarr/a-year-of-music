@@ -8,4 +8,8 @@
 
 ## 2. [*Tapestry*](./albums/tapestry) (Carol King, 1971)
 
-[![Fly or Die album cover](./assets/covers/tapestry.png)](./albums/tapestry)
+[![Tapestry album cover](./assets/covers/tapestry.png)](./albums/tapestry)
+
+## 3. [*Bad Cameo*](./albums/bad-cameo) (James Blake & Lil Yachty, 2024)
+
+[![Bad Cameo album cover](./assets/covers/bad-cameo.png)](./albums/bad-cameo)
