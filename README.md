@@ -6,7 +6,7 @@
 
 [![Fly or Die album cover](./assets/covers/fly-or-die.png)](./albums/fly-or-die)
 
-## 2. [*Tapestry*](./albums/tapestry) (Carol King, 1971)
+## 2. [*Tapestry*](./albums/tapestry) (Carole King, 1971)
 
 [![Tapestry album cover](./assets/covers/tapestry.png)](./albums/tapestry)
 

@@ -1,11 +1,11 @@
-## *Tapestry* (Carol King, 1971)
+## *Tapestry* (Carole King, 1971)
 
 ![Fly or die album cover](../assets/covers/tapestry.png)  
 ([Apple Music](https://music.apple.com/ca/album/tapestry/747087657), [YouTube Music](https://www.youtube.com/playlist?list=OLAK5uy_lUWnDcefuS7i1yv27EE5oZ87cRlQbm3EA))
 
 #### Jim
 
-Ok, as I mentioned my first choice, Ruger Asiwaju’s album The Second Wave sounded so great on 125th Street was not so sweet when listening to the lyrics at home. But it did make me think about how music punctuates and describes the events in your life which sent me back to Carol King. We played this album every day for such a long time when we were living in Hackthorne Road in Christchurch the year we got married. Some years later (1975) we were travelling through India and stayed in Mahabalipuram. The only album available for the days we were there was Tapestry, so it’s being in love in India as well. Listening to it now it reminds me how ‘produced’ music is now, but I still love it. There is another great album of King doing the Tapestry songs live at Hyde Park if you become obsessed.
+Ok, as I mentioned my first choice, Ruger Asiwaju’s album The Second Wave sounded so great on 125th Street was not so sweet when listening to the lyrics at home. But it did make me think about how music punctuates and describes the events in your life which sent me back to Carole King. We played this album every day for such a long time when we were living in Hackthorne Road in Christchurch the year we got married. Some years later (1975) we were travelling through India and stayed in Mahabalipuram. The only album available for the days we were there was Tapestry, so it’s being in love in India as well. Listening to it now it reminds me how ‘produced’ music is now, but I still love it. There is another great album of King doing the Tapestry songs live at Hyde Park if you become obsessed.
 
 Ruger in full flight if you want a taste: <https://www.youtube.com/watch?v=7M2Gps9xR8g>
 
