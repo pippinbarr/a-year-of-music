@@ -1,6 +1,6 @@
 # A Year of Music
 
-## 0. [*What??*](./what.md)
+## 0. [*What??*](./what)
 
 ## 1. [*Fly or Die*](./albums/fly-or-die) (Jamie Branch, 2017)
 
@@ -14,10 +14,10 @@
 
 [![Bad Cameo album cover](./assets/covers/bad-cameo.png)](./albums/bad-cameo)
 
-## 4. [*Hard to Imagine the Neighbourhood Ever Changing*](./albums/hard-to-imagine-the-neighbourhood-ever-changing.md) (The Neighbourhood, 2018)
+## 4. [*Hard to Imagine the Neighbourhood Ever Changing*](./albums/hard-to-imagine-the-neighbourhood-ever-changing) (The Neighbourhood, 2018)
 
-[![Hard to Imagine the Neighbourhood Ever Changing album cover](./assets/covers/hard-to-imagine-the-neighbourhood-ever-changing.png)](./albums/hard-to-imagine-the-neighbourhood-ever-changing.md)
+[![Hard to Imagine the Neighbourhood Ever Changing album cover](./assets/covers/hard-to-imagine-the-neighbourhood-ever-changing.png)](./albums/hard-to-imagine-the-neighbourhood-ever-changing)
 
-## 5. [*Donnie Doolittle*](./albums/donnie-doolittle.md) (Donnie Doolittle, 2023)
+## 5. [*Donnie Doolittle*](./albums/donnie-doolittle) (Donnie Doolittle, 2023)
 
-[![Donnie Doolittle album cover](./assets/covers/donnie-doolittle.png)](./albums/donnie-doolittle.md)
+[![Donnie Doolittle album cover](./assets/covers/donnie-doolittle.png)](./albums/donnie-doolittle)
