@@ -13,3 +13,11 @@
 ## 3. [*Bad Cameo*](./albums/bad-cameo) (James Blake & Lil Yachty, 2024)
 
 [![Bad Cameo album cover](./assets/covers/bad-cameo.png)](./albums/bad-cameo)
+
+## 4. [*Hard to Imagine the Neighbourhood Ever Changing*](./albums/hard-to-imagine-the-neighbourhood-ever-changing.md) (The Neighbourhood, 2018)
+
+[![Hard to Imagine the Neighbourhood Ever Changing album cover](./assets/covers/hard-to-imagine-the-neighbourhood-ever-changing.png)](./albums/hard-to-imagine-the-neighbourhood-ever-changing.md)
+
+## 5. [*Donnie Doolittle*](./albums/donnie-doolittle.md) (Donnie Doolittle, 2023)
+
+[![Donnie Doolittle album cover](./assets/covers/donnie-doolittle.png)](./albums/donnie-doolittle.md)
