@@ -21,3 +21,7 @@
 ## 5. [*Donnie Doolittle*](./albums/donnie-doolittle) (Donnie Doolittle, 2023)
 
 [![Donnie Doolittle album cover](./assets/covers/donnie-doolittle.png)](./albums/donnie-doolittle)
+
+## 6. [*I Do Not Want What I Haven't Got*](./albums/i-do-not-want-what-i-havent-got.md) (Sinead O'Connor, 1990)
+
+[![I Do Not Want What I Haven't Got album cover](./assets/covers/i-do-not-want-what-i-havent-got.png)](./albums/i-do-not-want-what-i-havent-got)
