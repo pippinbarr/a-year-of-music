@@ -1,4 +1,4 @@
-## *I Do Not Want What I Haven't Got* (Sinead O'Connor, 1990)
+## *I Do Not Want What I Haven't Got* (Sinéad O'Connor, 1990)
 
 ![I Do Not Want What I Haven't Got](../assets/covers/i-do-not-want-what-i-havent-got.png)  
 ([Apple Music](https://music.apple.com/us/album/i-do-not-want-what-i-havent-got/1629185300), [YouTube Music](https://music.youtube.com/playlist?list=OLAK5uy_lZU86NH2Tc8yXnHlsEH1uDVpK7g76e0cE))
