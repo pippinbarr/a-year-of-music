@@ -25,3 +25,7 @@
 ## 6. [*I Do Not Want What I Haven't Got*](./albums/i-do-not-want-what-i-havent-got.md) (Sinéad O'Connor, 1990)
 
 [![I Do Not Want What I Haven't Got album cover](./assets/covers/i-do-not-want-what-i-havent-got.png)](./albums/i-do-not-want-what-i-havent-got)
+
+## 7. [*Untitled (Black Is)*](./albums/untitled-black-is.md) (SAULT, 2020)
+
+[![Untitled (Black Is) album cover](./assets/covers/untitled-black-is.png)](./albums/untitled-black-is)
