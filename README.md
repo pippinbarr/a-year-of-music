@@ -29,3 +29,10 @@
 ## 7. [*Untitled (Black Is)*](./albums/untitled-black-is.md) (SAULT, 2020)
 
 [![Untitled (Black Is) album cover](./assets/covers/untitled-black-is.png)](./albums/untitled-black-is)
+
+## 8. [*Different Class*](./albums/different-class.md) (Pulp, 1995)
+
+![Different Class](assets/covers/different-class.png)  
+([Apple Music](https://music.apple.com/ca/album/different-class/1440923838), [YouTube Music](https://www.youtube.com/playlist?list=PLMNMmvIC2uGbYmKfmw-ebMTs8JKgvyvbZ))
+
+
