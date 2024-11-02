@@ -33,3 +33,7 @@
 ## 8. [*Different Class*](./albums/different-class.md) (Pulp, 1995)
 
 [![Different Class](assets/covers/different-class.png)](./albums/different-class)
+
+## 9. [*Paris Texas*](./albums/paris-texas.md) (Kevin Kaarl, 2022)
+
+[![Paris Texas](assets/covers/paris-texas.png)](./albums/paris-texas)
