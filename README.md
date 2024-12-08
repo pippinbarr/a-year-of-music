@@ -37,3 +37,7 @@
 ## 9. [*Paris Texas*](./albums/paris-texas.md) (Kevin Kaarl, 2022)
 
 [![Paris Texas](assets/covers/paris-texas.png)](./albums/paris-texas)
+
+## 10. [*Chaleur Humaine*](./albums/chaleur-humaine.md) (Christine and the Queens, 2014)
+
+[![Chaleur Humaine](assets/covers/chaleur-humaine.png)](./albums/chaleur-humaine)
