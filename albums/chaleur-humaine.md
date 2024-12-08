@@ -27,7 +27,9 @@ Interesting how you call this Summer music. Easy to forget how the seasons affec
 
 #### Pippin
 
-<audio src="../assets/music/how-it-is.m4a">
+<audio controls>
+<source src="../assets/music/how-it-is.m4a">
+</audio>
 
 Amazes me a know-nothing like me can casually make this in 10 minutes. The whole world of drum machines and sequencing is ridiculous.
 
