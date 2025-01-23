@@ -44,8 +44,8 @@
 
 ## 11. [*Keeping Secrets Will Destroy You*](./albums/keeping-secrets-will-destroy-you.md) (Bonny "Prince" Billy, 2023)
 
-[![Keeping Secrets Will Destroy You](assets/covers/keeping-secrets-will-destroy-you.png)](./albums/keeping-secrets-will-destroy-you.md)
+[![Keeping Secrets Will Destroy You](assets/covers/keeping-secrets-will-destroy-you.png)](./albums/keeping-secrets-will-destroy-you)
 
 ## 12. [*PHASOR*](./albums/phasor.md) (Helado Negro, 2022)
 
-[![PHASOR](./assets/covers/phasor.png)](./albums/phasor.md)
+[![PHASOR](./assets/covers/phasor.png)](./albums/phasor)
