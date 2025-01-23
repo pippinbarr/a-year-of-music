@@ -41,3 +41,11 @@
 ## 10. [*Chaleur Humaine*](./albums/chaleur-humaine.md) (Christine and the Queens, 2014)
 
 [![Chaleur Humaine](assets/covers/chaleur-humaine.png)](./albums/chaleur-humaine)
+
+## 11. [*Keeping Secrets Will Destroy You*](./albums/keeping-secrets-will-destroy-you.md) (Bonny "Prince" Billy, 2023)
+
+[![Keeping Secrets Will Destroy You](assets/covers/keeping-secrets-will-destroy-you.png)](./albums/keeping-secrets-will-destroy-you.md)
+
+## 12. [*PHASOR*](./albums/phasor.md) (Helado Negro, 2022)
+
+[![PHASOR](./assets/covers/phasor.png)](./albums/phasor.md)
