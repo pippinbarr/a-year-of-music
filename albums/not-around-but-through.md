@@ -9,10 +9,10 @@ Alright here’s the next one.
 
 I don’t know much about this - our friend Matt recommended it at coffee in his classic formulation:
 
-> Matt: Have you heard the new Amulets album?
-> Pippin: *looks confused*
-> Matt: Do you know them?
-> Pippin: … no…
-> Matt: It’s great!
+> Matt: Have you heard the new Amulets album?  
+> Pippin: *looks confused*  
+> Matt: Do you know them?  
+> Pippin: … no…  
+> Matt: It’s great!  
 
 In talking to Matt about it it seems like Amulets does a lot of stuff with looping and manipulating music from/on cassettes? Not sure about the specifics of this newest album, will look into it.
