@@ -49,3 +49,15 @@
 ## 12. [*PHASOR*](./albums/phasor.md) (Helado Negro, 2022)
 
 [![PHASOR](./assets/covers/phasor.png)](./albums/phasor)
+
+## 13. [*Broken English*](./albums/broken-english.md) (Marianne Faithful, 1979)
+
+[![Broken English](./assets/covers/broken-english.png)](./albums/broken-english)
+
+## 14. [*Diamond Jubilee*](./albums/diamond-jubilee.md) (Cindy Lee, 2024)
+
+[![Diamond Jubilee](./assets/covers/diamond-jubilee.png)](./albums/diamond-jubilee)
+
+## 15. [*Not Around But Through*](./albums/not-around-but-through.md) (Amulets, 2025)
+
+[![Not Around But Through](./assets/covers/not-around-but-through.png)](./albums/not-around-but-through)
