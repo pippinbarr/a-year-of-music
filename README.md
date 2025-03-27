@@ -61,3 +61,11 @@
 ## 15. [*Not Around But Through*](./albums/not-around-but-through.md) (Amulets, 2025)
 
 [![Not Around But Through](./assets/covers/not-around-but-through.png)](./albums/not-around-but-through)
+
+## 15. [*To Pimp a Butterfly*](./albums/to-pimp-a-butterfly.md) (Kendrick Lamar, 2015)
+
+[![To Pimp a Butterfly](./assets/covers/to-pimp-a-butterfly.png)](./albums/to-pimp-a-butterfly)
+
+## 16. [*EUSEXUA*](./albums/eusexua.md) (FKA twigs, 2025)
+
+[![EUSEXUA](./assets/covers/eusexua.png)](./albums/eusexua)
