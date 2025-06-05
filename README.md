@@ -73,3 +73,7 @@
 ## 17. [*Vexations*](./albums/vexations.md) (Eric Satie, 1893–1894)
 
 [![Vexations](./assets/covers/vexations.png)](./albums/vexations)
+
+## 18. [*The Rise and Fall of Ziggy Stardust and the Spiders from Mars*](./albums/the-rise-and-fall-of-ziggy-stardust-and-the-spiders-from-mars.md) (David Bowie, 1972)
+
+[![The Rise and Fall of Ziggy Stardust and the Spiders from Mars](./assets/covers/the-rise-and-fall-of-ziggy-stardust-and-the-spiders-from-mars.png)](./albums/the-rise-and-fall-of-ziggy-stardust-and-the-spiders-from-mars)
