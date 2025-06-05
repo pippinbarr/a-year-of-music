@@ -69,3 +69,7 @@
 ## 16. [*EUSEXUA*](./albums/eusexua.md) (FKA twigs, 2025)
 
 [![EUSEXUA](./assets/covers/eusexua.png)](./albums/eusexua)
+
+## 17. [*Vexations*](./albums/vexations.md) (Eric Satie, 1893–1894)
+
+[![Vexations](./assets/covers/vexations.png)](./albums/vexations)
