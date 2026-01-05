@@ -5,6 +5,6 @@
  
 ### Pippin
 
-Here we go. My pick is: *The Rise and Fall of Ziggy Stardust and Spiders from Mars* by David Bowie. Not an album I have any real relationship too. I know it's a classic. I like David Bowie on principle but I don't actually listen to him all that much. Effectively I know him more as an actor than as a musician.
+Here we go with album 18. My pick is: *The Rise and Fall of Ziggy Stardust and Spiders from Mars* by David Bowie. Not an album I have any real relationship too. I know it's a classic. I like David Bowie on principle but I don't actually listen to him all that much. Effectively I know him more as an actor than as a musician.
 
 So I wanted to listen to one of his albums and this one is, as I understand it, a stone cold classic. So here we are!
