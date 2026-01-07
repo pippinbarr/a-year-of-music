@@ -6,4 +6,4 @@
 
 ![Velvet Tiger album cover](../assets/covers/velvet-tiger.png)
 
-😁🚂🟩
+😁🚂🟩🕺🏻🚣🏼‍♀️🎡🕶️
